@@ -20,3 +20,8 @@ Your contributions and suggestions are always welcome ;)
 * [Vulnerability Assessment](http://www.vulnerabilityassessment.co.uk/) Resource that may assist Vulnerability Analysts and Penetration Testers alike. 
 * [Penetration Testing Framework (PTF)](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html) - Outline for performing penetration tests compiled as a general framework.
 * [XSS-Payloads](http://www.xss-payloads.com) - Ultimate resource for all things cross-site including payloads, tools, games and documentation.
+
+
+## Credits
+
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
